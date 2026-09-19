@@ -1,1 +1,1 @@
-# graphQL_taller03_02
+# graphQL_taller03_EJ02
